@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity {
             button1.setText(rnd1+rnd2+" ");
             button2.setText(rnd1-rnd2+" ");
             button4.setText(rnd1*rnd2+" ");
+
         }
         else {
             if (operator.equals("-")) {
